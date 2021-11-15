@@ -1,1 +1,1 @@
-worker python fastbot.py
+worker: python fastbot.py
